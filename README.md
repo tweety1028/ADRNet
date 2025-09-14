@@ -1,4 +1,4 @@
 # ADRNet
-Implementation code for Deep Multi-View Clustering with Meta Information Compression
+Implementation code for Adjacent-aware Modality Recovery based on Incomplete Multi-Modal Brain Disease Diagnosis
 
 Coming soon
